@@ -1,0 +1,11 @@
+C:\Users\kiril\Desktop\project\pz1\pz1\bin\Debug\netcoreapp3.1\pz1.exe
+C:\Users\kiril\Desktop\project\pz1\pz1\bin\Debug\netcoreapp3.1\pz1.deps.json
+C:\Users\kiril\Desktop\project\pz1\pz1\bin\Debug\netcoreapp3.1\pz1.runtimeconfig.json
+C:\Users\kiril\Desktop\project\pz1\pz1\bin\Debug\netcoreapp3.1\pz1.runtimeconfig.dev.json
+C:\Users\kiril\Desktop\project\pz1\pz1\bin\Debug\netcoreapp3.1\pz1.dll
+C:\Users\kiril\Desktop\project\pz1\pz1\bin\Debug\netcoreapp3.1\pz1.pdb
+C:\Users\kiril\Desktop\project\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.csprojAssemblyReference.cache
+C:\Users\kiril\Desktop\project\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\project\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.AssemblyInfo.cs
+C:\Users\kiril\Desktop\project\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.dll
+C:\Users\kiril\Desktop\project\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.pdb
